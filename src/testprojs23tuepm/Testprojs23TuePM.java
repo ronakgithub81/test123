@@ -17,6 +17,7 @@ public class Testprojs23TuePM {
         // TODO code application logic here
         System.out.println("hello");
         System.out.println("happy tuesday");
+        System.out.println("happy Wednesday");
     }
     
 }
